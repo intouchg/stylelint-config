@@ -1,6 +1,6 @@
 {
   "name": "@intouchg/stylelint-config",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Stylelint configuration for the Intouch Design System",
   "main": "index.js",
   "repository": "https://github.com/intouchg/stylelint-config",
