@@ -1,19 +1,14 @@
 {
 	"$schema": "http://json.schemastore.org/stylelintrc",
 	"extends": [
-		"stylelint-config-standard",
+		"stylelint-config-standard-scss",
 		"stylelint-config-prettier",
 		"stylelint-config-idiomatic-order"
 	],
-	"plugins": [
-		"stylelint-scss",
-		"stylelint-order"
-	],
+	"plugins": ["stylelint-order"],
 	"rules": {
 		"indentation": "tab",
 		"no-descending-specificity": null,
-		"at-rule-no-unknown": null,
-		"scss/at-rule-no-unknown": true,
 		"selector-pseudo-class-no-unknown": [
 			true,
 			{

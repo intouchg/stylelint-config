@@ -1,6 +1,6 @@
 {
   "name": "@intouchg/stylelint-config",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Stylelint configuration for the Intouch Design System",
   "main": "index.js",
   "repository": "https://github.com/intouchg/stylelint-config",
@@ -12,8 +12,7 @@
     "stylelint": ">=14.2.0",
     "stylelint-config-idiomatic-order": "^8.1.0",
     "stylelint-config-prettier": "^9.0.3",
-    "stylelint-config-standard": "^24.0.0",
-    "stylelint-order": "^5.0.0",
-    "stylelint-scss": "^4.1.0"
+    "stylelint-config-standard-scss": "^3.0.0",
+    "stylelint-order": "^5.0.0"
   }
 }
