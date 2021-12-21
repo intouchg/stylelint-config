@@ -8,7 +8,7 @@ To use in your own custom configuration, install then extend this package in you
 
 1. Install dependencies
 ```sh
-yarn add @intouchg/stylelint-config stylelint-config-standard-scss stylelint-config-prettier stylelint-config-idiomatic-order stylelint-order stylelint
+yarn add --dev @intouchg/stylelint-config stylelint-config-standard-scss stylelint-config-prettier stylelint-config-idiomatic-order stylelint-order stylelint
 ```
 
 2. Configure Stylelint
